@@ -26,4 +26,11 @@ enum GPIO_PIN_NUM {
 	PTD0,
 	PTD1,
 	PTD2,
+	PTD3,
+	PTD4,
+	PTD5,
+	PTD6,
+	PTD7
+}
+
 
